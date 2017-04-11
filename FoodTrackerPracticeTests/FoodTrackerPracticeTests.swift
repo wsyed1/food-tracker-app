@@ -59,5 +59,4 @@ class FoodTrackerPracticeTests: XCTestCase {
         let largeRatingMeal = Meal.init(name: "Large", photo: nil, rating: 6)
         XCTAssertNil(largeRatingMeal)
     }
-    
 }

@@ -6,10 +6,26 @@
          contextName = "RatingControl.updateButtonSelectionStates() -&gt; ():RatingControl.swift">
          <PersistentStrings>
             <PersistentString
-               value = "button.isSelected">
+               value = "rating">
             </PersistentString>
             <PersistentString
-               value = "rating">
+               value = "button.isSelected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MealTableViewController.unwindToMealList(sender : UIStoryboardSegue) -&gt; ():MealTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedIndexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MealViewController.cancel(UIBarButtonItem) -&gt; ():MealViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "presentingViewController">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
